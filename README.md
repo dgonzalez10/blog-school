@@ -18,3 +18,5 @@ Acá esta todo lo que necesitas
 [Roadmap]
 
 [Licencia]
+
+[Agradecimientos]
